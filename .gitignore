@@ -1,0 +1,14 @@
+
+# Python files
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Database passwords and secrets
+.env
+ex.env
+
+# VS Code and temporary files
+.vscode/
+*.log
